@@ -169,4 +169,31 @@
           height="40"
         />
       </a>
+        <a
+        href="https://www.prisma.io/docs"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img
+          src="https://github.com/PratapRathi/PratapRathi/assets/130206612/807573cf-edd6-441c-9b40-4267cd1d22e2"
+          alt="Prisma"
+          width="40"
+          height="40"
+        />
+      </a>
+        <a
+        href="https://www.postgresql.org/docs/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img
+          src="https://github.com/PratapRathi/PratapRathi/assets/130206612/7ae60b0a-d443-4b5f-80cb-e7300eae9a5a"
+          alt="Postgre SQL"
+          width="40"
+          height="40"
+        />
+      </a>
     </p>
+
+
+
