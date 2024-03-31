@@ -193,7 +193,31 @@
           height="40"
         />
       </a>
+        </a>
+        <a
+        href="https://www.selenium.dev/documentation/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img
+          src="https://github.com/PratapRathi/PratapRathi/assets/130206612/b1c28427-08c8-47f9-8e8d-582d4a663618"
+          alt="Postgre SQL"
+          width="40"
+          height="40"
+        />
+      </a>
+      </a>
+        <a
+        href="https://socket.io"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img
+          src="https://github.com/PratapRathi/PratapRathi/assets/130206612/7ca67e0d-ac84-4a0b-9260-ce1fb3eadf9f"
+          alt="Socket.io"
+          width="40"
+          height="40"
+        />
+      </a>
     </p>
-
-
 
