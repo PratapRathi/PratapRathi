@@ -221,3 +221,11 @@
       </a>
     </p>
 
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PratapRathi&show_icons=true&locale=en&layout=compact" alt="PratapRathi" /></p>
+
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PratapRathi&show_icons=true&locale=en" alt="PratapRathi" /></p>
+
+    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PratapRathi" alt="PratapRathi" /></a> </p>
+
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PratapRathi&" alt="PratapRathi" /></p>
+
