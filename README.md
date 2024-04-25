@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently working on **Full Stack Development + Problem Solving**
 
-- 👨‍💻 All of my projects are available at **(https://github.com/PratapRathi)**
+- 👨‍💻 All of my projects are available at **https://github.com/PratapRathi**
 
-- 📝 My Person Portfolio **(https://portfolio-pratap.vercel.app/)**
+- 📝 My Person Portfolio **https://portfolio-pratap.vercel.app**
 
 - 💬 Ask me about **Freelancing...**
 
