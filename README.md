@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at **https://github.com/PratapRathi**
 
-- 📝 My Person Portfolio **https://portfolio-pratap.vercel.app**
+- 📝 My Person Portfolio **https://www.prataprathi.in**
 
 - 💬 Ask me about **Freelancing...**
 
