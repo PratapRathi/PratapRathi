@@ -33,6 +33,8 @@
 <a href="https://mercurius.dev/#/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/9284dd36-c09d-4379-8b0e-1dcfb887d1e2" alt="Mercurius" width="40" height="40" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/efaf9c86-5acd-4442-a23a-bd3512401fd4" alt="GraphQl" width="40" height="40" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/dc263c4b-927a-410c-a422-4b609c3c788e" alt="Material-UI" width="40" height="40" /></a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8ba7e1f1-5dc2-4135-ac1f-2ba80ee8a03d" alt="Nest.js" width="40" height="40" /></a>
+<a href="https://bitbucket.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4e0a9256-c478-43a3-af98-926465b4cd57" alt="BitBucket" width="40" height="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PratapRathi&show_icons=true&locale=en&layout=compact" alt="PratapRathi" /></p>
