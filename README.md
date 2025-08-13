@@ -39,6 +39,7 @@
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/dc263c4b-927a-410c-a422-4b609c3c788e" alt="Material-UI" width="40" height="40" /></a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8ba7e1f1-5dc2-4135-ac1f-2ba80ee8a03d" alt="Nest.js" width="40" height="40" /></a>
 <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4e0a9256-c478-43a3-af98-926465b4cd57" alt="BitBucket" width="40" height="40" /></a>
+<a href="https://trpc.io/docs/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/58f941d6-4912-4cbc-b8dd-0ab62ce4a9e6" alt="TRPC" width="40" height="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PratapRathi&show_icons=true&locale=en&layout=compact" alt="PratapRathi" /></p>
